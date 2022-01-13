@@ -4,6 +4,7 @@ package org.bridgelabz.addressbookworkshop;
  *this file is the gateway for all functions
  */
 public class Address {
+   /*variables to declaration to store data */
     private String Fname;
     private String Lname;
     private String city;
