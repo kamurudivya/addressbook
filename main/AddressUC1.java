@@ -1,5 +1,8 @@
 package org.bridgelabz.addressbookworkshop;
-
+/*
+ *main code for address book management
+ *this file is the gateway for all functions
+ */
 public class Address {
     private String Fname;
     private String Lname;
